@@ -1,6 +1,8 @@
 # About CanYouRead?
 With help of the Azure Face API I've created something that will adjust the font size when people need to focus too much while reading. This will help elder people to find the right font-size and help young people decide if they are in need of some glasses.
 
+If you want to learn more about the project read the [wiki](https://github.com/Fr3akyBeakyLike/canYouRead/wiki)
+
 ## Functionalities
 * Creating the right font-size.
 * Helps people decide if they are in need of some glasses.
