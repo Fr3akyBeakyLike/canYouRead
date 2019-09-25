@@ -16,6 +16,8 @@ Cloning the project `git clone https://github.com/Fr3akyBeakyLike/Project-Tech.g
 
 installing node modules `npm install`
 
+Enter your subscription key var `subscriptionKey = "YourSubscriptionKeyHere";`
+
 ## This App is build using
 * HTML
 * CSS
