@@ -20,7 +20,7 @@ installing node modules `npm install`
 
 Enter your subscription key `var subscriptionKey = "YourSubscriptionKeyHere";`
 
-## This App is build using
+## This project is build using
 * HTML
 * CSS
 * Javascript
