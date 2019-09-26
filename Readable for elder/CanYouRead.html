@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Reading Check</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <div id="blockOne">
+    <h1>Start the webcam and take a screenshot while reading the words below</h1>
+    <h3 id="answer"></h3>
+    <!-- <label>Take a snapshot of a person</label> -->
+    <video width=745em height=600em id="video" controls autoplay></video>
+    <div id="buttons">
+      <button onclick="startWebcam();">Start WebCam</button>
+      <button id="takeSnap" disabled>Take Snapshot</button>
+      <button onclick="stopWebcam();">Stop WebCam</button>
+    </div>
+  </div>
+
+  <h2 id="one"></h2>
+
+  <div>
+    <p>Image:</p>
+    <canvas id="sourceImage"></canvas>
+    <img id="spinner" src="loading.gif" alt="loading" class="hidden">
+    <pre id="responseArea"></pre>
+  </div>
+  <script type="text/javascript" src="javascript.js"></script>
+</body>
+
+</html>

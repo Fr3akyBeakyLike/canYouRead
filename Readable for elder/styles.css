@@ -1,0 +1,90 @@
+  body {
+    font-family: sans-serif;
+    font-weight: lighter;
+    background: black;
+    color: white;
+  }
+
+  #blockOne {
+    margin-left: auto;
+    margin-right: auto;
+    width: 46.6em;
+  }
+
+  #buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  label {
+    display: block;
+  }
+
+  input,
+  button {
+    padding: .5em;
+    margin: .2em;
+    border-radius: .3em;
+    font-family: sans-serif;
+  }
+
+  input {
+    display: block;
+    font-size: 1em;
+  }
+
+  button {
+    font-size: .8em;
+    background: rgb(238, 53, 53);
+    color: white;
+    border: none;
+  }
+
+  button:disabled {
+    background: hsl(0, 82%, 82%);
+    color: hsl(200, 30%, 90%);
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+  }
+
+  canvas {
+    max-width: 100%;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  /* Test for reading */
+  #one {
+    /* Placement */
+    margin-left: auto;
+    margin-right: auto;
+    width: 46.6em;
+    text-align: center;
+
+    /* Style */
+    font-size: 1em;
+    font-weight: normal;
+  }
+
+  h3 {
+    color: rgb(238, 53, 53);
+    margin-bottom: 0em;
+  }
+
+  .answerCorrect {
+    color: greenyellow;
+  }
+
+  .answerWrong {
+    color: rgb(238, 53, 53);
+    margin-bottom: 0em;
+  }
+
+  h1 {
+    margin: 0.5em 0 0 0;
+  }
