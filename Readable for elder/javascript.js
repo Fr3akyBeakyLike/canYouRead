@@ -2,7 +2,7 @@
     // *** Update or verify the following values. ***
     // **********************************************
 
-    var subscriptionKey = "d94bae39057c4748b0131ad90e1f676d";
+    var subscriptionKey = "YourKeyHere";
     var endpoint = "https://westeurope.api.cognitive.microsoft.com/";
     var uriBase = endpoint + "face/v1.0/detect";
     var webcamStream;
