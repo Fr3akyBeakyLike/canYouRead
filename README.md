@@ -14,7 +14,7 @@ During this project I want to help people find a right font-size:
 * > As an adolescent, I want to know if my vision is okay, so I can check if I need glasses.
 
 ## Installation
-Cloning the project `git clone https://github.com/Fr3akyBeakyLike/Project-Tech.git`
+Cloning the project `git clone https://github.com/Fr3akyBeakyLike/canYouRead.git`
 
 installing node modules `npm install`
 
